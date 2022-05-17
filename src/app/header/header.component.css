@@ -1,0 +1,21 @@
+.row {
+  margin: 5px;
+  padding: 5px;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.accent {
+  color: rgb(255, 145, 0);
+  font-weight: 700;
+}
+
+button {
+  text-transform: uppercase;
+  text-align: center;
+  background-color: rgb(255, 145, 0);
+  border: 1px solid rgb(255, 145, 0);
+}

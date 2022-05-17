@@ -1,1 +1,5 @@
-/* Add application styles & imports to this file! */
+:root {
+  color-scheme: dark !important;
+  --bs-body-color: #fff !important;
+  --bs-body-bg: #212529 !important;
+}
